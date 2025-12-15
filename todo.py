@@ -19,7 +19,6 @@ if ans=="yes":
         print("Task list has been updated")
         print(TaskList)
 
-
     print("Do you want to remove a task ?")
     ans2=input("Yes/No:").lower()
 
